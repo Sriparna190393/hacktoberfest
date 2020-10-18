@@ -1,3 +1,8 @@
+#### Name: Sriparna Chakraborty
+ - Place: New York
+ - Bio: Graduate student, problem-solver, Python programmer
+ - Github: [Sriparna Chakraborty](https://www.github.com/Sriparna190393)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
